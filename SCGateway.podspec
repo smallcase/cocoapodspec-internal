@@ -1,9 +1,9 @@
 Pod::Spec.new do |spec|
 
-  version = "3.10.0"
-  spec.name         = "SCGateway-internal"
+  version = sdkversion
+  spec.name         = "SCGateway"
   spec.version      = "#{version}"
-  spec.summary      = "Setup smallcase Gateway internal iOS SDK to allow your users to transact in stocks, ETFs & smallcases, and much more"
+  spec.summary      = "Setup smallcase Gateway iOS SDK to allow your users to transact in stocks, ETFs & smallcases, and much more"
   spec.description  = "Gateway offers a unified set of APIs & SDKs to bring seamless trading & investing experience in your app or website."
 
   spec.homepage     = "https://developers.gateway.smallcase.com/docs/ios-integration"
