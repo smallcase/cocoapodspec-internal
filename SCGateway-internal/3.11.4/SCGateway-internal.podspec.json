@@ -19,7 +19,7 @@
     "Mixpanel-swift": [
       "3.3.0"
     ],
-    "SCLoans": [
+    "SCLoans-internal": [
       "~> 2.0"
     ]
   }
