@@ -1,0 +1,23 @@
+{
+  "authors": {
+    "gatewaytech": "gatewaytech@smallcase.com"
+  },
+  "dependencies": {
+    "Mixpanel-swift": [
+      "3.3.0"
+    ]
+  },
+  "description": "smallcase Gateway offers a unified set of APIs \u0026 SDKs to bring seamless borrowing experience in your app or website.",
+  "homepage": "https://developers.gateway.smallcase.com/docs/ios-integration",
+  "license": "MIT",
+  "name": "SCLoans-internal",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "http": "https://gateway.smallcase.com/laons_internal/0.0.6/Loans.xcframework.zip"
+  },
+  "summary": "Setup smallcase Loans iOS SDK to allow your users to apply for various types of Loans",
+  "vendored_frameworks": "Loans.xcframework",
+  "version": "0.0.6"
+}
