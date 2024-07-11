@@ -13,7 +13,7 @@
   },
   "vendored_frameworks": "Loans.xcframework",
   "source": {
-    "http": "https://gateway.smallcase.com/laons_internal/2.1.1-18-debug/Loans.xcframework.zip"
+    "http": "https://gateway.smallcase.com/laons_internal/qa/2.1.1-18-debug/Loans.xcframework.zip"
   },
   "dependencies": {
     "Mixpanel-swift": [
