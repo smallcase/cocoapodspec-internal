@@ -1,0 +1,22 @@
+{
+  "name": "SCGateway-internal-ios-extract-mixpanel-from-sdk-1",
+  "version": "4.1.5-4-release",
+  "summary": "Setup smallcase Gateway iOS SDK to allow your users to transact in stocks, ETFs & smallcases, and much more",
+  "description": "Gateway offers a unified set of APIs & SDKs to bring seamless trading & investing experience in your app or website.",
+  "homepage": "https://developers.gateway.smallcase.com/docs/ios-integration",
+  "license": "MIT",
+  "authors": {
+    "gatewaytech": "gatewaytech@smallcase.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": [
+    "5.10"
+  ],
+  "vendored_frameworks": "SCGateway.xcframework",
+  "source": {
+    "http": "https://gateway.smallcase.com/scgateway_internal/internal-ios-extract-mixpanel-from-sdk-1/4.1.5-4-release/SCGateway.xcframework.zip"
+  },
+  "swift_version": "5.10"
+}
