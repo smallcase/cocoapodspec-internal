@@ -1,0 +1,22 @@
+{
+  "name": "SCGateway-sourav-download-file-c080c3c",
+  "version": "7.0.1-17-debug",
+  "summary": "Setup smallcase Gateway iOS SDK to allow your users to transact in stocks, ETFs & smallcases, and much more",
+  "description": "Gateway offers a unified set of APIs & SDKs to bring seamless trading & investing experience in your app or website.",
+  "homepage": "https://developers.gateway.smallcase.com/docs/ios-integration",
+  "license": "MIT",
+  "authors": {
+    "gatewaytech": "gatewaytech@smallcase.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": [
+    "5.10"
+  ],
+  "vendored_frameworks": "SCGateway.xcframework",
+  "source": {
+    "http": "https://gateway.smallcase.com/scgateway_internal/sourav-download-file-c080c3c/7.0.1-17-debug/SCGateway.xcframework.zip"
+  },
+  "swift_version": "5.10"
+}
