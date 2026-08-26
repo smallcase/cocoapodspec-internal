@@ -1,0 +1,22 @@
+{
+  "name": "SCLoans-feat-loan-webview-geolocation-0a10f22",
+  "version": "7.3.0-49-release",
+  "summary": "Setup smallcase Loans iOS SDK to allow your users to apply for various types of Loans",
+  "description": "smallcase Gateway offers a unified set of APIs & SDKs to bring seamless borrowing experience in your app or website.",
+  "homepage": "https://developers.gateway.smallcase.com/docs/ios-integration",
+  "license": "MIT",
+  "authors": {
+    "gatewaytech": "gatewaytech@smallcase.com"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "swift_versions": [
+    "5.10"
+  ],
+  "vendored_frameworks": "Loans.xcframework",
+  "source": {
+    "http": "https://gateway.smallcase.com/loans_internal/feat-loan-webview-geolocation-0a10f22/7.3.0-49-release/Loans.xcframework.zip"
+  },
+  "swift_version": "5.10"
+}
